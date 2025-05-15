@@ -2,6 +2,7 @@
 #include <stdio.h>
 #include <conio.h>
 #include <string.h>
+#include <bits/stdc++.h>
 struct customer
 {
     char c_name[20];
